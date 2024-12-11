@@ -1,0 +1,14 @@
+/home/douglas/Documents/Source/TetxtEditor/bin/Debug/net8.0/TetxtEditor
+/home/douglas/Documents/Source/TetxtEditor/bin/Debug/net8.0/TetxtEditor.deps.json
+/home/douglas/Documents/Source/TetxtEditor/bin/Debug/net8.0/TetxtEditor.runtimeconfig.json
+/home/douglas/Documents/Source/TetxtEditor/bin/Debug/net8.0/TetxtEditor.dll
+/home/douglas/Documents/Source/TetxtEditor/bin/Debug/net8.0/TetxtEditor.pdb
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.AssemblyInfoInputs.cache
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.AssemblyInfo.cs
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.csproj.CoreCompileInputs.cache
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.dll
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/refint/TetxtEditor.dll
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.pdb
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/TetxtEditor.genruntimeconfig.cache
+/home/douglas/Documents/Source/TetxtEditor/obj/Debug/net8.0/ref/TetxtEditor.dll
